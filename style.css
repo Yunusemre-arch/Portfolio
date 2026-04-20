@@ -119,7 +119,7 @@ body {
     scroll-snap-align: center; /* Kaydırınca resim ortada durur */
 }
 
-/* --- Alt Sayfa İçerikleri (About, Contact vb.) --- */
+/* --- Alt Sayfa İçerikleri --- */
 .content-box {
     padding: 20px 0;
     max-width: 700px;
@@ -177,7 +177,7 @@ footer p {
     text-transform: uppercase;
 }
 
-/* --- RESPONSIVE DESIGN (MOBİL UYUMLULUK - VİZE İÇİN KRİTİK) --- */
+/* --- RESPONSIVE DESIGN (MOBİL UYUMLULUK) --- */
 @media screen and (max-width: 768px) {
     .container {
         padding: 0 20px; /* Kenar boşluklarını telefonda daralt */
